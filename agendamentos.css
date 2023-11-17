@@ -1,21 +1,22 @@
+/*corpo do site*/
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #b4918f ;
 }
-
+/*parte de cima do site*/
 header {
     background-color: #000000;
     color: #fff;
     padding-top: 20px;
     text-align: center;
 }
-
+/*logotipo do site*/
 .logo img {
     width: 500px; 
 }
-
+/*navegação do site,menu*/
 nav {
     background-color: #000000;
     padding: 10px 0;
@@ -27,7 +28,7 @@ nav a {
     text-decoration: none;
     margin: 0 15px;
 }
-
+/*colocar texto*/
 .container {
     max-width: 960px;
     margin: 20px auto;
